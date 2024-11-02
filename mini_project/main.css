@@ -1,0 +1,53 @@
+body{
+    background-color: #afafaf;
+}
+
+.header{
+    background-color: gray;
+    padding: 0.5rem;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    display: grid;
+    grid-template-columns: repeat(2, 14rem);
+    width: 60remrem;
+}
+
+.header header{
+    background-color: black;
+    padding: 5px;
+    width: 80px;
+    border-radius: 60px
+}
+
+.header header .logo{
+    font-size: 20px;
+    color: white;
+    font-weight: 900
+}
+
+.header button{
+    background-color: transparent;
+    border: none;
+    font-size: 2.5rem;
+}
+
+.header button:hover{
+    border-bottom: solid 5px;
+}
+
+.header button:focus{
+    border-bottom: solid 5px;
+}
+
+
+.link {
+    transition: 0.5;
+}
+
+.btm{
+    background-color: #eb4646;
+}
+
+
+
+
