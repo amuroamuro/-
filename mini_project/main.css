@@ -48,6 +48,8 @@ body{
     background-color: #eb4646;
 }
 
-
+.service{
+    transition: 0.5;
+}
 
 
